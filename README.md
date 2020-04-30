@@ -1,2 +1,6 @@
-# pcf.demo.vat-validation
-VAT Validation Demo
+# VAT Validation Component for PCF
+
+Based on: https://github.com/allandecastro/VATNumberValidator
+For demo purposes only. 
+
+
